@@ -1,7 +1,7 @@
 {
   "name": "omnifood",
   "version": "1.0.0",
-  "description": "recipes application",
+  "description": "meal delivery application",
   "default": "index.html",
   "scripts": {
     "start": "npx parcel index.html --dist-dir ./dist",
