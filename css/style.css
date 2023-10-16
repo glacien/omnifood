@@ -630,6 +630,12 @@
   margin-top: auto;
 }
 
+.twitter-link {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  color: #767676;
+}
+
 .footer-heading {
   font-size: 1.8rem;
   font-weight: 500;
